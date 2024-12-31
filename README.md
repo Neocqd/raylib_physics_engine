@@ -1,6 +1,6 @@
 # Physics Engine
 
-![Physics Engine Banner]([path/to/your/image.png](https://i.imgur.com/l1sdtcm.png))
+![Physics Engine Banner](https://i.imgur.com/l1sdtcm.png)
 
 ## Introduction
 
